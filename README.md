@@ -5,13 +5,12 @@
 
 ## Project setup instructions
 ##### To see the work done use the following commands:
-...
 
-git clone https://github.com/andyweru/delani_studio_site.git
-cd resortWebsite
-atom .
-code . (if using visual studio code is your preffered text editor)
-...
+- `git clone https://github.com/andyweru/delani_studio_site.git`
+- `cd resortWebsite`
+- `atom .`
+- `code .` (if using visual studio code is your preffered text editor)
+
 
 ## License
 
